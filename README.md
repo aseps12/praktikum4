@@ -252,9 +252,9 @@ cout<<"\n\n\t\t\tProgram Logging Off....";
 ```
 
 *Berikut flowchartnya.
-![img] (https://raw.githubusercontent.com/aseps12/praktikum4/master/flowchart.png)
+![img](https://raw.githubusercontent.com/aseps12/praktikum4/master/flowchart.png)
 
 *Berikut Hasilnya.
-![img] (https://raw.githubusercontent.com/aseps12/praktikum4/master/hasil1.png)
-![img] (https://raw.githubusercontent.com/aseps12/praktikum4/master/hasil2.png)
-![img] (https://raw.githubusercontent.com/aseps12/praktikum4/master/hasil3.png)
+![img](https://raw.githubusercontent.com/aseps12/praktikum4/master/hasil1.png)
+![img](https://raw.githubusercontent.com/aseps12/praktikum4/master/hasil2.png)
+![img](https://raw.githubusercontent.com/aseps12/praktikum4/master/hasil3.png)
